@@ -29,4 +29,4 @@ Demo Link: https://as-php.com/login.php
 <br>
 • password: admin123 
 <br><br>• 
-Documentation Link: View The Docs
+Documentation Link: https://milos.support-hub.io/knowledgebase/2
