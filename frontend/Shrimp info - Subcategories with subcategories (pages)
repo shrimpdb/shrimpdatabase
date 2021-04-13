@@ -3,6 +3,8 @@
 Show all Subcategories level 1 or 2 under the main catogory "shrimp"
 
 Show each Subcategory with picture, name, and short Description 
+Example for category picture:
+https://github.com/shrimpdb/shrimpdatabase/blob/main/frontend/shrimp%20demo%20category%20picture.png?raw=true
 
 When you click on a subcategory if there is a leven 2 subcategory then show that subcatgory like level 1
 
