@@ -4,5 +4,5 @@
 - A list of all user uploaded picture that need to bee aproved, and a a possible to aprove or reject. A standart email will be send to user when a picture are aprove, or a mail if the picture are reject, a reson for the reject can be written and send to the user 
 - Edit picture, where all info the user have write can be edit by admin
 - Delete picture function
-
+- See and handle user rating for each picture, possible to delete a rating
 
