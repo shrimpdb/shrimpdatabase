@@ -8,10 +8,6 @@
 - All users can suggest a change for the info on the site, or add new info for all shrimps and fish. 
 - A user gallery where user can upload a picture of they own shrimp / fish, and others user can rate the picture
 
-**Build by**<br>
-PHP<br>
-Bootstrap <br>
-MySQL <br>
 
 <br><br>
 **Build on "Advanced Security - PHP Register/Login System"**
@@ -28,3 +24,9 @@ Demo Link: https://as-php.com/login.php
 • password: admin123 
 <br><br>• 
 Documentation Link: https://milos.support-hub.io/knowledgebase/2
+
+<br><br>
+**Technology**<br>
+PHP<br>
+Bootstrap <br>
+MySQL <br>
