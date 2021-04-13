@@ -1,0 +1,50 @@
+## Add or edit shrimp or fish ##
+
+
+
+Select Main Category (All need to have a Main Category)
+Select Subcategory level 1(All need to have Subcategory level 1)
+Select Subcategory level 2
+
+Each shrimp/fish can be in more then one subcategory
+
+
+Navn (field)
+Picture (file upload)
+Scientific name (field)
+Common names (field)
+Family (field)
+Size (field)
+Age (field)
+Cross breed info(field)
+
+Difficulty level (Easy/ medium/ Hard) (field - select box)
+
+Origin (field)
+Discovered year(field)
+
+Tank size (field)
+
+Water Parameters 
+
+Range:
+Temperature °F / °C (field)
+KH (field)
+GH (field)
+TDS- ppm / μS (field)
+
+Optimal:
+Temperature °F / °C (field)
+KH (field)
+GH (field)
+TDS- ppm / μS (field)
+
+Description(long description)
+Grading (long description)
+Diet (long description)
+Social behavior:  (long description)
+Reproduction (long description)
+History (long description)
+
+Added date (automatic)
+Edit date (automatic when making a change)
