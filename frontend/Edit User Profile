@@ -1,5 +1,6 @@
 ## Edit User Profile ##
 
+- Require user login, if not log in then tell user to sign up or login -
 
 --By defoult in the "Advanced Security"--
 
@@ -7,6 +8,7 @@ First name (keep)
 Last name (keep)
 Adress (dont need)
 Phone (dont need)
+mail (the users mail for login)
 
 --Need to be added--
 
@@ -14,4 +16,4 @@ About me (long description)
 Link to Facebook 
 Link to website
 Startet with Shrimp (year)
-Mail (if user want to be contacted by mail
+E-mail (if user want to be contacted by mail
