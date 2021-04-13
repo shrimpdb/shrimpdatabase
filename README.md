@@ -9,7 +9,7 @@
 - A user gallery where user can upload a picture of they own shrimp / fish
 
 **Build by**
-PHP
+PHP<br>
 Bootstrap 
 MySQL 
 
