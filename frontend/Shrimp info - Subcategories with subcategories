@@ -1,12 +1,10 @@
-## Shrimp info - Subcategories ##
+## Shrimp info - Subcategories with under subcategories ##
 
 Show all Subcategories level 1 or 2 under the main catogory "shrimp"
 
 Show each Subcategory with picture, name, and short Description 
 
 When you click on a subcategory if there is a leven 2 subcategory then show that subcatgory like level 1
-
-If theres is shrimp/fish in the subcatogory then show picture and name og each fish or shrimp by a list.
 
 Possible to sort by name, add date
 
