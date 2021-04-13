@@ -1,5 +1,7 @@
 #Create / Edit Subcategories
 
+- Requires admin login -
+
 Subcategory name (field)
 Select Main Category (Dropdown)
 Select Subcategory (Dropdown)
