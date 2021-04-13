@@ -4,3 +4,5 @@
 - Aprove or reject. 
 * If Aprove,  send standart mail to user that they shrimp / fish is aproved and are online on the site
 * If reject, send a mail to user that they shrimp / fish is reject and write a reson for the reject.
+
+- After aprove, go to edit pages for shrimp / fish, to add a picture or make change 
