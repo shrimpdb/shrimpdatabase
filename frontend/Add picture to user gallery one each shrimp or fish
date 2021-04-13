@@ -3,7 +3,7 @@
 - Require user login, if not log in then tell user to sign up or login -
 
 Upload picture (file upload)
-Uploadet by (username)
+Uploadet by (username, automatic indset the user id)
 Picture taken by (field)
 Breeder info (field)
 Link to breeder web (field)
