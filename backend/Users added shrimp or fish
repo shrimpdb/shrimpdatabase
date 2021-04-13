@@ -1,0 +1,6 @@
+## Users added shrimp or fish ##
+
+- A list of new shrimp or fish that user have added.
+- Aprove or reject. 
+* If Aprove,  send standart mail to user that they shrimp / fish is aproved and are online on the site
+* If reject, send a mail to user that they shrimp / fish is reject and write a reson for the reject.
