@@ -2,6 +2,8 @@
 
 A gallery like this: https://photoswipe.com
 
+User can upload own picture (need to be aprove by admin befor showing on the site)
+
 User can rate a picture with 1 to 10 stars.
 
 When showing the pictures order by rating, and show picture with highest rate first
