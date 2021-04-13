@@ -14,8 +14,20 @@ Bootstrap <br>
 MySQL <br>
 
 <br><br>
+Build on "Advanced Security - PHP Register/Login System"
+<br>
+https://codecanyon.net/item/advanced-security-php-registerlogin-system/5282621
+<br><br>
+
 • For the login system you can see a live demo here:  
 
 <br><br>
 Demo Link: https://as-php.com/login.php 
-• Admin details: • username: admin • password: admin123 • Documentation Link: View The Docs
+<br>
+• Admin details: 
+<br>
+• username: admin 
+<br>
+• password: admin123 
+<br><br>• 
+Documentation Link: View The Docs
