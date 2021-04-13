@@ -6,6 +6,8 @@ Show each Subcategory with picture, name, and short Description
 
 When you click on a subcategory if there is a leven 2 subcategory then show that subcatgory like level 1
 
-If theres is shrimp/fish in the suncatogory then show picture and name og each fish or shrimp
+If theres is shrimp/fish in the subcatogory then show picture and name og each fish or shrimp by a list.
+
+Possible to sort by name, add date
 
 ## Same of each main catogory, not only for shrimp ##
