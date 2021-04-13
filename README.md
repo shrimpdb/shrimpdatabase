@@ -19,8 +19,6 @@ MySQL <br>
 https://codecanyon.net/item/advanced-security-php-registerlogin-system/5282621
 <br><br>
 
-
-<br><br>
 Demo Link: https://as-php.com/login.php 
 <br>
 • Admin details: 
