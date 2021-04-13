@@ -14,12 +14,11 @@ Bootstrap <br>
 MySQL <br>
 
 <br><br>
-Build on "Advanced Security - PHP Register/Login System"
+**Build on "Advanced Security - PHP Register/Login System"**
 <br>
 https://codecanyon.net/item/advanced-security-php-registerlogin-system/5282621
 <br><br>
 
-• For the login system you can see a live demo here:  
 
 <br><br>
 Demo Link: https://as-php.com/login.php 
