@@ -10,12 +10,12 @@
 
 
 <br><br>
-**Build on "Advanced Security - PHP Register/Login System"**
+**Vanguard - Advanced PHP Login and User Management"**
 <br>
-https://codecanyon.net/item/advanced-security-php-registerlogin-system/5282621
+https://codecanyon.net/item/vanguard-advanced-php-login-and-user-management/14521866
 <br><br>
 
-Demo Link: https://as-php.com/login.php 
+Demo Link: https://demo.vanguardapp.io
 <br>
 • Admin details: 
 <br>
@@ -23,10 +23,11 @@ Demo Link: https://as-php.com/login.php
 <br>
 • password: admin123 
 <br><br>• 
-Documentation Link: https://milos.support-hub.io/knowledgebase/2
+Documentation Link: https://milos.support-hub.io/
 
 <br><br>
 **Technology**<br>
 PHP<br>
+Laravel<br>
 Bootstrap <br>
 MySQL <br>
