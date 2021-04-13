@@ -40,6 +40,8 @@ Social behavior:
 Reproduction 
 History 
 
-- User upload of own picture to the shrimo / fish
-- User can sugest a change, what will be send to admin / only for users that are logged ind. if user not logged in when you click on "Sugest change" button, then go to login pages, with info that you need to be logged in.
+- User upload of own picture to the shrimo / fish gallery
+- User can sugest a change (- Require user login, if not log in then tell user to sign up or login -)
+- When user sugest a chenge it will be show in the backend and the admin can add or edit the info the user have sygest
+- if user not logged in when you click on "Sugest change" button, then go to login pages, with info that you need to be logged in.
 
