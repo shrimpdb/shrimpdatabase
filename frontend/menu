@@ -1,0 +1,10 @@
+# Menu
+
+- Front pages
+- Shrimp info (show all Subcategories under shrimps)
+- Fish info (show all Subcategories under fish)
+- Add fish/shrimp
+- Login / My account 
+- Admin (only when logged in as admin)
+- Contact
+- Search function (search for name, Scientific name, Common names, Subcategories)
