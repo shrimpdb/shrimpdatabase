@@ -2,19 +2,15 @@
 
 - Require user login, if not log in then tell user to sign up or login -
 
---Vanguard - Advanced PHP Login and User Management--
 
-First name (keep)
-Username (have to bee fill out)
-Last name (keep)
-Adress (dont need)
-Phone (dont need)
-Country(keep)
-Email (keep -the users mail for login)
+First name 
+Username 
+Last name 
+Country
+Email
 
-Profile picture (are build in Vanguard - Advanced PHP Login and User Management)
+Profile picture
 
---Need to be added--
 
 About me (long description)
 Link to Facebook 
